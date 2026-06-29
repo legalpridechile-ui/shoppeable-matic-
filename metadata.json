@@ -1,0 +1,8 @@
+{
+  "name": "TikTok Shoppable Video Generator",
+  "description": "An automated creator dashboard to generate shoppable TikTok videos from product URLs, featuring sequential AI agents and video preview capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
